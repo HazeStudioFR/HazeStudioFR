@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 C# Developer specializing in RagePluginHook/LSPDFR plugins.
 -----------------------------------------------------------
 
-I began my journey in mods for GTA V by creating EUP textures, progressing to models. Later, I messed around with ELS & Non-ELS vehicles, and during the COVID pandemic, I experimented with coding. It wasn't until my 11th grade computer tech class, which focused on Java, that my interest in learning C# intensified. While I may not be a professional, I code for enjoyment and continuous learning. On another note, I recently earned my NREMT. I've developed a strong interest in the pre-hospital field, which began in 2021. Although I didn't join an ambulance company until 2022, I quickly obtained my EMR (A year almost to date before my EMT). Just a few days past my 18th birthday, I earned my EMT certification. My future plans include advancing to become a paramedic and eventually pursuing a career as a flight medic.
+I began my journey in mods for GTA V by creating EUP textures, progressing to models. Later, I messed around with ELS & Non-ELS vehicles, and during the COVID pandemic, I experimented with coding. It wasn't until my 11th-grade computer tech class, which focused on Java, that my interest in learning C# intensified. While I may not be a professional, I code for enjoyment and continuous learning. On another note, I recently earned my NREMT. I've developed a strong interest in the pre-hospital field, which began in 2021. Although I didn't join an ambulance company until 2022, I quickly obtained my EMR (A year almost to date before my EMT). Just a few days past my 18th birthday, I earned my EMT certification. My future plans include advancing to become a paramedic and eventually pursuing a career as a flight medic.
 
 * 🌍  I'm based in United States - East Coast
-* ✉️  You can contact me at [https://discord.gg/mV9kaACXkM](mailto:https://discord.gg/mV9kaACXkM)
-* 🚀  I'm currently working on [PulseEMS - LSPDFR EMS Mod](http://www.lcpdfr.com/downloads/gta5mods/scripts/45092-pulseems/)
+* ✉️  You can contact me at https://discord.gg/mV9kaACXkM
+* 🚀  I'm currently working on [PulseEMS - GTAV EMS Mod](http://www.lcpdfr.com/downloads/gta5mods/scripts/45092-pulseems/)
 * 🤝  I'm open to collaborating on LSPDFR Related Projects
 * ⚡  I love music and will always take suggestions on good songs for coding/gym/everyday life
 
